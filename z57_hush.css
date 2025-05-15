@@ -1,0 +1,14 @@
+* {
+ font-size: 35pt;
+ background-color: yellow;   
+}
+
+p.klasa_nieuniwersalna_hushcha {
+    font-size: 32pt;
+    color: purple;
+}
+
+.klasa_nieuniwersalna_hushcha {
+    font-size: 32pt;
+    color: green;
+}
